@@ -27,3 +27,6 @@ Looks like that's gonna work just fine. But now my question is, what if I make c
 (This is my second edit before making another commit. We'll see in just a second what happens.)
 
 Beautiful. Git looks at it as just one set of changes, which is both good and expected behavior. Going to commit these changes now. 
+
+# HELLO-WORLD
+It's Friday night. :-) 
