@@ -15,3 +15,7 @@ Now I am working in a brand-new branch so I can try this again. In a fit of orig
 
 
 Note to self re markdown files in Visual Studio: lines that have new but unsaved changes have yellow bar on the side of the screen. After I've saved the file, those changed lines now have a green bar on the side. 
+
+## Committed to pull requests
+
+So this is going to be the second set of changes I am making to this file right now. Add a heading, a sentence. Nothing big. Save, close, commit. 
