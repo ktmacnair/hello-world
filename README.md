@@ -19,3 +19,11 @@ Note to self re markdown files in Visual Studio: lines that have new but unsaved
 ## Committed to pull requests
 
 So this is going to be the second set of changes I am making to this file right now. Add a heading, a sentence. Nothing big. Save, close, commit. 
+
+### What happens now? 
+
+Looks like that's gonna work just fine. But now my question is, what if I make changes to the file, save it, close it ... open it back up, make changes, save again ... will Git see that as two sets of changes or just one? 
+
+(This is my second edit before making another commit. We'll see in just a second what happens.)
+
+Beautiful. Git looks at it as just one set of changes, which is both good and expected behavior. Going to commit these changes now. 
