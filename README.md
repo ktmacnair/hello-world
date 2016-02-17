@@ -1,10 +1,4 @@
 # hello-world
-This is my test repo created while following along with the tutorial on github.com. 
+## The cow ran away with the fork. 
+Frankly, the spoon was quite surprised by this turn of events, as she had long thought that the cow was rather more fond of her. The knife tried to console the spoon, but he was more or less ineffectual, given his generally pointy disposition. 
 
-We're going to be editing help.xml files directly in GitHub! 
-
-## Fun with merge conflicts
-I accidentally created a merge conflict already, because I made one change to this file in the master brand and another change to the same file in my "readme-edits" branch. Now I am going to add another change to see whether I can make the file conflict worse. Or maybe fix it. 
-
-
-### Should be the last change
