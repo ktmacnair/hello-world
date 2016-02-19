@@ -2989,7 +2989,7 @@ PS C:\&gt; Update-AzureRmApiManagementDeployment -ApiManagement $ApiManagement
   </command:command>
   <command:command xmlns:maml="http://schemas.microsoft.com/maml/2004/10" xmlns:command="http://schemas.microsoft.com/maml/dev/command/2004/10" xmlns:dev="http://schemas.microsoft.com/maml/dev/2004/10" xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
     <command:details>
-      <command:name>Update-AzureRmApiManagementRegion</command:name>
+      <command:name>TestTestUpdate-AzureRmApiManagementRegion</command:name>
       <maml:description>
         <maml:para>Updates existing deployment region in PsApiManagement instance.</maml:para>
       </maml:description>
@@ -3001,11 +3001,11 @@ PS C:\&gt; Update-AzureRmApiManagementDeployment -ApiManagement $ApiManagement
       <dev:version />
     </command:details>
     <maml:description>
-      <maml:para>The Update-AzureRmApiManagementRegion cmdlet updates an existing instance of type Microsoft.Azure.Commands.ApiManagement.Models.PsApiManagementRegion in a collection of AdditionalRegions objects of a provided instance of type Microsoft.Azure.Commands.ApiManagement.Models.PsApiManagement. This cmdlet does not deploy anything but updates an instance of PsApiManagement in-memory. To update a deployment of an API Management use the modified PsApiManagementInstance to the Update-AzureRmApiManagementDeployment cmdlet.</maml:para>
+      <maml:para>The TestTestUpdate-AzureRmApiManagementRegion cmdlet updates an existing instance of type Microsoft.Azure.Commands.ApiManagement.Models.PsApiManagementRegion in a collection of AdditionalRegions objects of a provided instance of type Microsoft.Azure.Commands.ApiManagement.Models.PsApiManagement. This cmdlet does not deploy anything but updates an instance of PsApiManagement in-memory. To update a deployment of an API Management use the modified PsApiManagementInstance to the Update-AzureRmApiManagementDeployment cmdlet.</maml:para>
     </maml:description>
     <command:syntax>
       <command:syntaxItem>
-        <maml:name>Update-AzureRmApiManagementRegion</maml:name>
+        <maml:name>TestTestUpdate-AzureRmApiManagementRegion</maml:name>
         <command:parameter required="false" variableLength="false" globbing="false" pipelineInput="true(ByPropertyName)" position="named" aliases="none">
           <maml:name>VirtualNetwork</maml:name>
           <maml:description>
@@ -3238,5 +3238,3 @@ PS C:\&gt; Update-AzureRmApiManagementDeployment -ApiManagement $ApiManagement
       </maml:navigationLink>
     </maml:relatedLinks>
   </command:command>
-
-</helpItems>
